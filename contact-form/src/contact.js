@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import LoginForm from './LoginForm';
+import './contactForm.css';
+import ContactForm from './contactForm';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<LoginForm />, document.querySelector('#root'));
+ReactDOM.render(<ContactForm />, document.querySelector('#root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
