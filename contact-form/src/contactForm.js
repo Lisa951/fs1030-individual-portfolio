@@ -12,7 +12,8 @@ function ContactForm() {
   function handleSubmit(event) {
     event.preventDefault();
     console.log(email, firstName, lastName, message);
-    let url = ""
+
+    let url = "http://localhost:7000/contact"
     
     fetch(url, {
       method: 'POST',
