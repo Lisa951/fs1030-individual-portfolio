@@ -9,7 +9,8 @@ function topFunction() {
     alert ("Please add email");
     return false;
   }
-  
+  alert("Form Submitted Successfully")
+  return true;
   }
 
  
