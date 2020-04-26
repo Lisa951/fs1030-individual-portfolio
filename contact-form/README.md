@@ -1,3 +1,7 @@
+Personal Portfolio Phase 1 - Add IF diagram and ER diagram for online personal portfolio
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
